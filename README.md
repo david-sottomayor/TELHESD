@@ -1,6 +1,5 @@
 # TELHESD
-Technology Enhanced Learning for Higher Education Students with Disabilities
-
+## Technology Enhanced Learning for Higher Education Students with Disabilities
 This repository holds the dataset collected for the paper with the above title
 
 It lists the Portuguese Higher Education Institutions, their websites and the WCAG 2.1 compliance rating for 3 pages on those websites (homepage, programs, applications), wether the site is compliant with 83/2018 Portuguese Law Decree that ruled that from September, 23rd of 2020 all institutions websites must have an accessibility statement on the domain/acessibilidade page. It finally rates each site weighting the average of the 3 WCAG 2.1 ratings at 75% and Accessibility Statement Compliance at 25%
