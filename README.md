@@ -16,7 +16,7 @@ Accessibility Statement: Normalized binary score (0: Non Compliant, 10: Complian
 Rating: AVG(Homepage, Programs, Applications) * 0.75 + (Accessibility Statement) * 0.25	
 
 
-##References:
+## References:
 
 WCAG 2.1 Rating Tool:	AMA accessMonitor 2.1	
 https://accessmonitor.acessibilidade.gov.pt/
