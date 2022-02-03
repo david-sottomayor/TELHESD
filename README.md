@@ -18,4 +18,5 @@ Rating: AVG(Homepage, Programs, Applications) * 0.75 + (Accessibility Statement)
 
 References:
 WCAG 2.1 Rating Tool:	AMA accessMonitor 2.1	https://accessmonitor.acessibilidade.gov.pt/
+
 Higher Education Institutions List:	DGES	https://www.dges.gov.pt/pt/pesquisa_cursos_instituicoes?instituicao=&cursos=&distrito=&tipo_ensino=&tipo_estabelecimento=&area=&tipo_curso=
