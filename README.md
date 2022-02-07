@@ -7,7 +7,7 @@ It lists the Portuguese Higher Education Institutions, their websites and the WC
 ## Dimensions:
 Instituição: Portuguese Higher Education Institution Name
 
-Subsistem: Cathegory (Universitary, Polytechnic, Polytechnic Organic Unit Not Attached to an University)
+Subsistem: Cathegory (University, Polytechnic, Polytechnic Organic Unit Not Attached to an University)
 
 Sector: Cathegory (Public, Private, Military/Police)	
 
